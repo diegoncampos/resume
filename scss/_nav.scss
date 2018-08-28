@@ -38,6 +38,8 @@
       margin-bottom: auto;
       .navbar-nav {
         flex-direction: column;
+        text-align: end;
+        padding-right: 42px;
 
         width: 100%;
         .nav-item {
